@@ -1,0 +1,1507 @@
+﻿Log file open, 03/03/20 09:29:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject2
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.191976
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.124s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-1603 v4 @ 2.80GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.03-09.29.58:871][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.03-09.29.58:871][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.03-09.29.58:871][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/t7093848/Source/Nautica/Saved/Config/Windows/Engine.ini]
+[2020.03.03-09.29.58:871][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.03-09.29.58:871][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.03.03-09.29.58:871][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.03.03-09.29.58:871][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2020.03.03-09.29.58:871][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/t7093848/Source/Nautica/Saved/Config/Windows/Engine.ini]
+[2020.03.03-09.29.58:871][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/t7093848/Source/Nautica/Saved/Config/Windows/Engine.ini]
+[2020.03.03-09.29.58:871][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.03-09.29.58:871][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.03-09.29.58:871][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.03-09.29.58:871][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/t7093848/Source/Nautica/Saved/Config/Windows/Engine.ini]
+[2020.03.03-09.29.58:872][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.03-09.29.58:872][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/t7093848/Source/Nautica/Saved/Config/Windows/Engine.ini]
+[2020.03.03-09.29.58:872][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/t7093848/Source/Nautica/Saved/Config/Windows/Engine.ini]
+[2020.03.03-09.29.58:878][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/t7093848/Source/Nautica/Saved/Config/Windows/Scalability.ini]
+[2020.03.03-09.29.58:878][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.03-09.29.58:878][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.03-09.29.58:878][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/t7093848/Source/Nautica/Saved/Config/Windows/Scalability.ini]
+[2020.03.03-09.29.58:878][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.03-09.29.58:878][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/t7093848/Source/Nautica/Saved/Config/Windows/Scalability.ini]
+[2020.03.03-09.29.58:878][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.03-09.29.58:878][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.03-09.29.58:878][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.03-09.29.58:878][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.03-09.29.58:878][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.03-09.29.58:878][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.03-09.29.58:878][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.03-09.29.58:878][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.03-09.29.58:878][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.03-09.29.58:878][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.03-09.29.58:878][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.03-09.29.58:878][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.03-09.29.58:878][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.03-09.29.58:878][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.03-09.29.58:878][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.03-09.29.58:878][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.03-09.29.58:878][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.03-09.29.58:878][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/t7093848/Source/Nautica/Saved/Config/Windows/Scalability.ini]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/t7093848/Source/Nautica/Saved/Config/Windows/Scalability.ini]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/t7093848/Source/Nautica/Saved/Config/Windows/Scalability.ini]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/t7093848/Source/Nautica/Saved/Config/Windows/Scalability.ini]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.03-09.29.58:879][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.03-09.29.58:879][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.03-09.29.58:879][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.03-09.29.58:895][  0]LogHAL: Display: Platform has ~ 32 GB [34272022528 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2020.03.03-09.29.58:895][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.03-09.29.58:895][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/t7093848/Source/Nautica/Saved/Config/Windows/Scalability.ini]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/t7093848/Source/Nautica/Saved/Config/Windows/Scalability.ini]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/t7093848/Source/Nautica/Saved/Config/Windows/Scalability.ini]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/t7093848/Source/Nautica/Saved/Config/Windows/Scalability.ini]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.03-09.29.58:895][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/t7093848/Source/Nautica/Saved/Config/Windows/Scalability.ini]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/t7093848/Source/Nautica/Saved/Config/Windows/Scalability.ini]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/t7093848/Source/Nautica/Saved/Config/Windows/Scalability.ini]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.03-09.29.58:896][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.03-09.29.58:896][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/t7093848/Source/Nautica/Saved/Config/Windows/Engine.ini]
+[2020.03.03-09.29.58:896][  0]LogInit: Computer: TU46961
+[2020.03.03-09.29.58:897][  0]LogInit: User: t7093848
+[2020.03.03-09.29.58:897][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.03-09.29.58:897][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.03-09.29.58:897][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.03.03-09.29.58:897][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.03-09.29.58:897][  0]LogMemory: Process Physical Memory: 103.63 MB used, 103.63 MB peak
+[2020.03.03-09.29.58:897][  0]LogMemory: Process Virtual Memory: 84.88 MB used, 84.88 MB peak
+[2020.03.03-09.29.58:897][  0]LogMemory: Physical Memory: 6292.08 MB used,  26392.27 MB free, 32684.35 MB total
+[2020.03.03-09.29.58:897][  0]LogMemory: Virtual Memory: 4631.89 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2020.03.03-09.29.58:916][  0]LogInit: Using OS detected language (en-GB).
+[2020.03.03-09.29.58:916][  0]LogInit: Using OS detected locale (en-GB).
+[2020.03.03-09.29.58:917][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.03.03-09.29.59:348][  0]LogStreaming: Display: Took  0.432s to InitEngineTextLocalization.
+[2020.03.03-09.29.59:348][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.03-09.29.59:392][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.03-09.29.59:392][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.03-09.29.59:667][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.03-09.29.59:667][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.03-09.29.59:738][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.03.03-09.29.59:738][  0]LogD3D11RHI:       8088/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.03.03-09.29.59:741][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.03-09.29.59:741][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.03-09.29.59:741][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.03-09.29.59:748][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.03-09.29.59:748][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.03-09.29.59:748][  0]LogWindows: EnumDisplayDevices:
+[2020.03.03-09.29.59:749][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2020.03.03-09.29.59:749][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.03.03-09.29.59:750][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.03.03-09.29.59:751][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.03.03-09.29.59:751][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.03.03-09.29.59:751][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.03.03-09.29.59:752][  0]LogD3D11RHI:   Driver Version: 431.70 (internal:26.21.14.3170, unified:431.70)
+[2020.03.03-09.29.59:752][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.03.03-09.29.59:752][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2020.03.03-09.29.59:804][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.03-09.29.59:817][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.03-09.30.00:330][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2020.03.03-09.30.00:346][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2020.03.03-09.30.00:362][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2020.03.03-09.30.00:379][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2020.03.03-09.30.00:395][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2020.03.03-09.30.00:412][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2020.03.03-09.30.00:428][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2020.03.03-09.30.00:444][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2020.03.03-09.30.00:452][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2020.03.03-09.30.00:545][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.03-09.30.00:545][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.03-09.30.00:545][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.03-09.30.00:545][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.03-09.30.00:545][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.03-09.30.00:545][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.03-09.30.00:545][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.03-09.30.00:545][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.03-09.30.00:545][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.03-09.30.00:545][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.03-09.30.00:545][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.03-09.30.00:545][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.03-09.30.00:545][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.03-09.30.00:545][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.03-09.30.00:545][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.03-09.30.00:545][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.03-09.30.00:545][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.03-09.30.00:545][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2020.03.03-09.30.00:547][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2020.03.03-09.30.00:612][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.03.03-09.30.00:612][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2020.03.03-09.30.00:640][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.03.03-09.30.00:640][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2020.03.03-09.30.00:655][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2020.03.03-09.30.00:669][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2020.03.03-09.30.00:684][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2020.03.03-09.30.00:700][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2020.03.03-09.30.00:755][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.03.03-09.30.00:755][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2020.03.03-09.30.00:755][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.03-09.30.00:824][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../../Users/t7093848/Source/Nautica/Intermediate/Shaders/WorkingDirectory/12352/).
+[2020.03.03-09.30.00:824][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/t7093848/AppData/Local/Temp/UnrealShaderWorkingDir/2DF3B4BA4AA0EB968349D4B5B5AC45F8/'.
+[2020.03.03-09.30.00:827][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.03.03-09.30.00:827][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.03.03-09.30.00:827][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.03.03-09.30.01:496][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.03-09.30.01:554][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/t7093848/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.03.03-09.30.01:554][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/t7093848/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2020.03.03-09.30.01:554][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/t7093848/Source/Nautica/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.03-09.30.01:554][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.03-09.30.01:554][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/t7093848/Source/Nautica/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.03-09.30.01:554][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.03-09.30.01:574][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.03-09.30.01:574][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.03-09.30.01:574][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.03-09.30.01:586][  0]LogDerivedDataCache: Using Local data cache path C:/Users/t7093848/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.03-09.30.01:586][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.03-09.30.01:586][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.03-09.30.01:612][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.03-09.30.01:614][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.03-09.30.01:615][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.03-09.30.01:715][  0]LogAssetRegistry: FAssetRegistry took 0.0363 seconds to start up
+[2020.03.03-09.30.02:102][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.03-09.30.02:182][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2020.03.03-09.30.02:186][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2020.03.03-09.30.02:186][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.03-09.30.02:186][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.03-09.30.02:186][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2020.03.03-09.30.02:300][  0]LogNetVersion: MyProject2 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2078931443)
+[2020.03.03-09.30.02:914][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.119332 seconds
+[2020.03.03-09.30.02:921][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2020.03.03-09.30.02:921][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2020.03.03-09.30.02:921][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.03-09.30.03:944][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.03-09.30.03:956][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.03-09.30.04:778][  0]SourceControl: Source control is disabled
+[2020.03.03-09.30.04:778][  0]SourceControl: Source control is disabled
+[2020.03.03-09.30.04:779][  0]SourceControl: Source control is disabled
+[2020.03.03-09.30.04:780][  0]SourceControl: Source control is disabled
+[2020.03.03-09.30.04:952][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.03-09.30.05:066][  0]LogOcInput: OculusInput pre-init called
+[2020.03.03-09.30.05:210][  0]LogEngine: Initializing Engine...
+[2020.03.03-09.30.05:211][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.03-09.30.05:213][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.03.03-09.30.05:213][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.03.03-09.30.05:213][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.03.03-09.30.05:213][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.03.03-09.30.05:490][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.03-09.30.05:505][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.03-09.30.05:535][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.03-09.30.05:596][  0]LogInit: FAudioDevice initialized.
+[2020.03.03-09.30.05:596][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.03-09.30.05:672][  0]LogDerivedDataCache: Saved boot cache 0.08s 71MB C:/Users/t7093848/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2020.03.03-09.30.05:684][  0]LogInit: Texture streaming: Enabled
+[2020.03.03-09.30.05:704][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.03-09.30.05:726][  0]LogInit: Transaction tracking system initialized
+[2020.03.03-09.30.05:753][  0]BlueprintLog: New page: Editor Load
+[2020.03.03-09.30.05:840][  0]LocalizationService: Localization service is disabled
+[2020.03.03-09.30.06:364][  0]LogFileCache: Scanning file cache for directory 'C:/Users/t7093848/Source/Nautica/Content/' took 0.02s
+[2020.03.03-09.30.06:364][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.03-09.30.06:364][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.03-09.30.06:364][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2020.03.03-09.30.06:364][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2020.03.03-09.30.06:364][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2020.03.03-09.30.06:364][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2020.03.03-09.30.06:364][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2020.03.03-09.30.06:529][  0]SourceControl: Source control is disabled
+[2020.03.03-09.30.06:530][  0]Cmd: MAP LOAD FILE="../../../../../../Users/t7093848/Source/Nautica/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.03-09.30.06:530][  0]LightingResults: New page: Lighting Build
+[2020.03.03-09.30.06:533][  0]MapCheck: New page: Map Check
+[2020.03.03-09.30.06:533][  0]LightingResults: New page: Lighting Build
+[2020.03.03-09.30.06:963][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.03.03-09.30.06:971][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.03-09.30.06:999][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.03-09.30.06:999][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.178ms to complete.
+[2020.03.03-09.30.06:999][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.470
+[2020.03.03-09.30.07:102][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-09.30.07:110][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-09.30.07:119][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-09.30.07:127][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.03-09.30.07:134][  0]LogCollectionManager: Loaded 0 collections in 0.002025 seconds
+[2020.03.03-09.30.07:174][  0]LogFileCache: Scanning file cache for directory 'C:/Users/t7093848/Source/Nautica/Saved/Collections/' took 0.01s
+[2020.03.03-09.30.07:174][  0]LogFileCache: Scanning file cache for directory 'C:/Users/t7093848/Source/Nautica/Content/Developers/t7093848/Collections/' took 0.01s
+[2020.03.03-09.30.07:174][  0]LogFileCache: Scanning file cache for directory 'C:/Users/t7093848/Source/Nautica/Content/Collections/' took 0.01s
+[2020.03.03-09.30.07:174][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.03.03-09.30.07:184][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2651 classes and 620 folders.
+[2020.03.03-09.30.07:192][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.03-09.30.07:194][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:194][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:195][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:196][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:196][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:197][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:197][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:198][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:199][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:199][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:200][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:200][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:201][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:202][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:202][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:203][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:203][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:204][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:205][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:207][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:207][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:208][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:208][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:209][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.03-09.30.07:253][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.03-09.30.07:258][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.03.03-09.30.07:275][  0]LogSlate: Took 0.000690 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.03-09.30.07:277][  0]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.03-09.30.07:282][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.03-09.30.07:370][  0]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:1).
+[2020.03.03-09.30.07:553][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.03-09.30.07:553][  0]LogLoad: (Engine Initialization) Total time: 10.57 seconds
+[2020.03.03-09.30.07:553][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.03-09.30.07:637][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.03-09.30.09:541][198]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.03-09.30.10:311][289]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.03-09.30.10:325][289]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.03-09.30.10:912][358]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.03.03-09.30.11:934][463]LogAssetRegistry: Asset discovery search completed in 10.2428 seconds
+[2020.03.03-09.30.11:936][463]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2020.03.03-09.30.12:044][471]Cmd: MAP LOAD FILE="../../../../../../Users/t7093848/Source/Nautica/Content/Nautica.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.03-09.30.12:047][471]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.03-09.30.12:058][471]LightingResults: New page: Lighting Build
+[2020.03.03-09.30.12:059][471]LoadErrors: New page: Loading map: Nautica.umap
+[2020.03.03-09.30.12:061][471]MapCheck: New page: Map Check
+[2020.03.03-09.30.12:061][471]LightingResults: New page: Lighting Build
+[2020.03.03-09.30.12:283][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:283][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading ../../../../../../Users/t7093848/Source/Nautica/Content/Nautica.umap.
+[2020.03.03-09.30.12:283][471]LoadErrors: Error: /Game/Nautica : Can't find file for asset. /Game/StarterContent/Materials/HarborBuoy_Body
+[2020.03.03-09.30.12:284][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:284][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading ../../../../../../Users/t7093848/Source/Nautica/Content/Nautica.umap.
+[2020.03.03-09.30.12:284][471]LoadErrors: Error: /Game/Nautica : Can't find file for asset. /Game/StarterContent/Materials/HarborBuoy_Floater
+[2020.03.03-09.30.12:292][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:292][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading ../../../../../../Users/t7093848/Source/Nautica/Content/Nautica.umap.
+[2020.03.03-09.30.12:293][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:293][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading ../../../../../../Users/t7093848/Source/Nautica/Content/Nautica.umap.
+[2020.03.03-09.30.12:294][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:294][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:294][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:294][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:295][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:295][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:295][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:295][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:365][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:365][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body10
+[2020.03.03-09.30.12:366][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:366][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:366][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body11
+[2020.03.03-09.30.12:366][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:366][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:366][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body12
+[2020.03.03-09.30.12:367][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:367][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:367][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body13
+[2020.03.03-09.30.12:367][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:368][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:368][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body14
+[2020.03.03-09.30.12:368][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:368][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:368][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body15
+[2020.03.03-09.30.12:368][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:369][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:369][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body16
+[2020.03.03-09.30.12:369][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:369][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:369][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body17
+[2020.03.03-09.30.12:370][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:370][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:370][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body18
+[2020.03.03-09.30.12:370][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:371][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:371][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body19
+[2020.03.03-09.30.12:371][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:371][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:371][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body20
+[2020.03.03-09.30.12:371][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:372][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:372][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body21
+[2020.03.03-09.30.12:372][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:372][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:373][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body22
+[2020.03.03-09.30.12:373][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:373][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:373][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body23
+[2020.03.03-09.30.12:373][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:374][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:374][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body24
+[2020.03.03-09.30.12:374][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:374][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:374][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body25
+[2020.03.03-09.30.12:375][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:375][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:375][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body26
+[2020.03.03-09.30.12:375][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:376][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:376][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body27
+[2020.03.03-09.30.12:376][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:376][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:376][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body28
+[2020.03.03-09.30.12:377][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:377][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:377][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body29
+[2020.03.03-09.30.12:377][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:378][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:378][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body2_26
+[2020.03.03-09.30.12:378][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:378][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:379][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body30
+[2020.03.03-09.30.12:379][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:379][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:379][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body31
+[2020.03.03-09.30.12:380][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:380][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:380][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body32
+[2020.03.03-09.30.12:381][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:381][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:381][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body33
+[2020.03.03-09.30.12:381][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:382][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:382][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body34
+[2020.03.03-09.30.12:382][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:382][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:383][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body35
+[2020.03.03-09.30.12:383][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:383][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:384][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body36
+[2020.03.03-09.30.12:384][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:384][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:384][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body3_30
+[2020.03.03-09.30.12:385][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:385][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:385][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body4_34
+[2020.03.03-09.30.12:385][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:386][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:386][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body5_38
+[2020.03.03-09.30.12:386][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:387][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:387][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body6
+[2020.03.03-09.30.12:387][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:388][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:388][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body7
+[2020.03.03-09.30.12:388][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:388][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:389][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body8
+[2020.03.03-09.30.12:389][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:389][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:389][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body9
+[2020.03.03-09.30.12:390][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:390][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Body'
+[2020.03.03-09.30.12:390][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Body.HarborBuoy_Body Referenced by HarborBuoy_Body_2
+[2020.03.03-09.30.12:390][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Body' while loading NULL.
+[2020.03.03-09.30.12:391][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:391][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater10
+[2020.03.03-09.30.12:391][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:392][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:392][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater11
+[2020.03.03-09.30.12:392][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:392][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:393][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater12
+[2020.03.03-09.30.12:393][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:393][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:394][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater13
+[2020.03.03-09.30.12:394][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:394][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:394][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater14
+[2020.03.03-09.30.12:395][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:395][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:395][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater15
+[2020.03.03-09.30.12:395][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:396][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:396][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater16
+[2020.03.03-09.30.12:396][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:397][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:397][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater17
+[2020.03.03-09.30.12:397][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:397][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:398][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater18
+[2020.03.03-09.30.12:398][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:398][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:398][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater19
+[2020.03.03-09.30.12:399][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:399][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:399][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater20
+[2020.03.03-09.30.12:399][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:400][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:400][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater21
+[2020.03.03-09.30.12:400][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:401][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:401][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater22
+[2020.03.03-09.30.12:401][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:401][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:402][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater23
+[2020.03.03-09.30.12:402][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:402][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:402][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater24
+[2020.03.03-09.30.12:403][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:403][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:403][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater25
+[2020.03.03-09.30.12:404][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:404][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:404][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater26
+[2020.03.03-09.30.12:404][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:405][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:405][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater27
+[2020.03.03-09.30.12:405][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:406][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:406][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater28
+[2020.03.03-09.30.12:406][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:407][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:407][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater29
+[2020.03.03-09.30.12:407][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:408][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:408][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater2_27
+[2020.03.03-09.30.12:408][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:408][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:409][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater30
+[2020.03.03-09.30.12:409][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:409][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:410][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater31
+[2020.03.03-09.30.12:410][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:410][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:411][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater32
+[2020.03.03-09.30.12:411][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:411][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:412][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater33
+[2020.03.03-09.30.12:412][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:412][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:413][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater34
+[2020.03.03-09.30.12:413][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:413][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:414][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater35
+[2020.03.03-09.30.12:414][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:414][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:415][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater36
+[2020.03.03-09.30.12:415][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:415][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:416][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater3_31
+[2020.03.03-09.30.12:416][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:416][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:417][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater4_35
+[2020.03.03-09.30.12:417][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:417][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:418][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater5_39
+[2020.03.03-09.30.12:418][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:418][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:419][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater6
+[2020.03.03-09.30.12:419][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:419][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:420][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater7
+[2020.03.03-09.30.12:420][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:421][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:421][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater8
+[2020.03.03-09.30.12:421][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:422][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:422][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater9
+[2020.03.03-09.30.12:423][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.12:423][471]LogLinker: Warning: Can't find file '/Game/StarterContent/Materials/HarborBuoy_Floater'
+[2020.03.03-09.30.12:423][471]LoadErrors: Failed to load /Game/StarterContent/Materials/HarborBuoy_Floater.HarborBuoy_Floater Referenced by HarborBuoy_Floater_5
+[2020.03.03-09.30.12:423][471]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Materials/HarborBuoy_Floater' while loading NULL.
+[2020.03.03-09.30.13:351][471]LogAIModule: Creating AISystem for world Nautica
+[2020.03.03-09.30.13:372][471]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.03-09.30.13:444][471]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.03-09.30.13:444][471]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.213ms to complete.
+[2020.03.03-09.30.13:444][471]LogFileHelpers: Loading map 'Nautica' took 1.401
+[2020.03.03-09.30.13:446][471]LogSlate: Window 'Open Level' being destroyed
+[2020.03.03-09.30.15:609][668]LogSlate: Window 'Message Log' being destroyed
+[2020.03.03-09.30.15:612][668]LogSlate: Window 'Message Log' being destroyed
+[2020.03.03-09.30.19:111][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.03-09.30.21:740][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2020.03.03-09.30.22:437][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.03.03-09.30.27:390][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.03-09.30.34:851][705]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.03-09.30.36:626][901]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.03-09.30.39:010][143]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.03.03-09.30.40:246][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HarborBuoy_Floater18)
+[2020.03.03-09.30.42:560][516]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.03-09.30.45:557][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.03-09.30.59:265][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.03.03-09.31.01:822][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.03-09.31.22:050][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.03.03-09.31.25:107][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.03.03-09.31.27:816][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder20)
+[2020.03.03-09.31.31:142][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.03-09.31.44:760][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.03-09.31.49:070][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.03.03-09.31.51:794][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.03-09.31.52:512][196]MapCheck: New page: Map Check
+[2020.03.03-09.31.52:522][196]Cmd: MAP REBUILD ALLVISIBLE
+[2020.03.03-09.31.52:523][196]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.03.03-09.31.52:626][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2020.03.03-09.31.52:638][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Water_Ocean1_Inst, compiling. 
+[2020.03.03-09.31.52:648][196]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.03-09.31.52:648][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Buoy____Standard__, compiling. 
+[2020.03.03-09.31.52:658][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Material__3____Standard___ncl1_8, compiling. 
+[2020.03.03-09.31.52:668][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Material__3____Standard___ncl1_9, compiling. 
+[2020.03.03-09.31.52:677][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Concrete_Poured, compiling. 
+[2020.03.03-09.31.52:687][196]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.03-09.31.52:687][196]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.03-09.31.52:687][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Rock_Slate, compiling. 
+[2020.03.03-09.31.52:697][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_Oak, compiling. 
+[2020.03.03-09.31.52:706][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Gold, compiling. 
+[2020.03.03-09.31.52:716][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Burnished_Steel, compiling. 
+[2020.03.03-09.31.52:726][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Brushed_Nickel, compiling. 
+[2020.03.03-09.31.52:735][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_Floor_Walnut_Worn, compiling. 
+[2020.03.03-09.31.52:745][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy gemiLow_MainColor_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.31.52:755][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy gemiLow_Wood_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.31.52:764][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy gemiLow_Plastic_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.31.52:774][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy gemiLow_Metal_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.31.52:784][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy gemiLow_GreenLight_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.31.52:793][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy gemiLow_RedLight_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.31.52:802][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy gemiLow_Glass_MetallicSmoothness_Mat, compiling. 
+[2020.03.03-09.31.52:811][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy IND_WoodenBoat_01_SM_d_tga_Mat, compiling. 
+[2020.03.03-09.31.52:821][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy NanoBling_0_1, compiling. 
+[2020.03.03-09.31.52:831][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MAIN_MATERIAL__only_modifiy_this_one___0_2, compiling. 
+[2020.03.03-09.31.52:840][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Rubber_by_Monaro_PL_0_3, compiling. 
+[2020.03.03-09.31.52:849][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy black_knight_0_4, compiling. 
+[2020.03.03-09.31.52:859][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Aluminium_Alloy_0_5, compiling. 
+[2020.03.03-09.31.52:868][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Skin3Incandescence_0_6, compiling. 
+[2020.03.03-09.31.52:877][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy SkinByBravefart_0_7, compiling. 
+[2020.03.03-09.31.52:887][196]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Tech_Hex_Tile, compiling. 
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 25
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 24
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 23
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 21
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 19
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 18
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 17
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 16
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 15
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 14
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 13
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 11
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 9
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 8
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 7
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 6
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 4
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 3
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.03-09.31.54:869][196]LogShaderCompilers: Display: Shaders left to compile 1
+[2020.03.03-09.31.54:869][196]TextureStreamingBuild: Display: Compiling optional shaders took 2.250 seconds.
+[2020.03.03-09.31.54:974][196]LogLevel: Display: Export Material TexCoord Scales took 0.105 seconds.
+[2020.03.03-09.31.55:047][196]TextureStreamingBuild: Display: Build Texture Streaming took 0.072 seconds.
+[2020.03.03-09.31.55:077][196]LightingResults: New page: Lighting Build - 3 Mar 2020 09:31:55
+[2020.03.03-09.31.55:122][196]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.03-09.31.55:127][196]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.03-09.31.55:142][196]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.03-09.31.55:146][196]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.03-09.31.55:146][196]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12352
+[2020.03.03-09.31.57:175][196]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.03.03-09.31.57:175][196]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.03-09.31.57:175][196]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.03-09.31.57:175][196]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.03-09.31.57:175][196]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.03-09.31.57:175][196]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.03-09.31.59:581][196]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.03.03-09.31.59:581][196]MapCheck: New page: Nautica - 3 Mar 2020 09:31:59
+[2020.03.03-09.31.59:581][196]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.03.03-09.31.59:587][196]MapCheck: Warning: Cylinder14 Cylinder14 is in the same location as Cylinder20_35 
+[2020.03.03-09.31.59:587][196]MapCheck: Warning: Cylinder20_35 Cylinder20_35 is in the same location as Cylinder14 
+[2020.03.03-09.31.59:587][196]MapCheck: Map check complete: 1 Error(s), 2 Warning(s), took 6.327ms to complete.
+[2020.03.03-09.31.59:610][196]LogEditorBuildUtils: Build time 0:07
+[2020.03.03-09.31.59:689][197]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Water_Ocean1_Inst, compiling. 
+[2020.03.03-09.31.59:704][197]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Water_Ocean1_Inst, compiling. 
+[2020.03.03-09.31.59:721][198]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.03-09.31.59:721][198]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.03-09.31.59:727][198]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Buoy____Standard__, compiling. 
+[2020.03.03-09.31.59:737][198]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.03-09.31.59:737][198]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Buoy____Standard__, compiling. 
+[2020.03.03-09.31.59:765][199]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material__3____Standard___ncl1_8, compiling. 
+[2020.03.03-09.31.59:775][199]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material__3____Standard___ncl1_8, compiling. 
+[2020.03.03-09.31.59:807][200]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material__3____Standard___ncl1_9, compiling. 
+[2020.03.03-09.31.59:818][200]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Material__3____Standard___ncl1_9, compiling. 
+[2020.03.03-09.31.59:847][201]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Poured, compiling. 
+[2020.03.03-09.31.59:857][201]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Concrete_Poured, compiling. 
+[2020.03.03-09.31.59:885][202]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Rock_Slate, compiling. 
+[2020.03.03-09.31.59:896][202]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Rock_Slate, compiling. 
+[2020.03.03-09.31.59:924][203]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Oak, compiling. 
+[2020.03.03-09.31.59:934][203]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Oak, compiling. 
+[2020.03.03-09.31.59:963][204]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Gold, compiling. 
+[2020.03.03-09.31.59:974][204]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Gold, compiling. 
+[2020.03.03-09.32.00:003][205]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Burnished_Steel, compiling. 
+[2020.03.03-09.32.00:013][205]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Burnished_Steel, compiling. 
+[2020.03.03-09.32.00:041][206]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Brushed_Nickel, compiling. 
+[2020.03.03-09.32.00:052][206]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Metal_Brushed_Nickel, compiling. 
+[2020.03.03-09.32.00:082][207]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Floor_Walnut_Worn, compiling. 
+[2020.03.03-09.32.00:092][207]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Floor_Walnut_Worn, compiling. 
+[2020.03.03-09.32.00:113][208]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer gemiLow_MainColor_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.32.00:123][208]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer gemiLow_MainColor_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.32.00:142][209]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer gemiLow_Wood_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.32.00:152][209]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer gemiLow_Wood_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.32.00:173][210]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer gemiLow_Plastic_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.32.00:183][210]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer gemiLow_Plastic_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.32.00:202][211]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer gemiLow_Metal_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.32.00:212][211]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer gemiLow_Metal_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.32.00:231][212]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer gemiLow_GreenLight_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.32.00:241][212]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer gemiLow_GreenLight_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.32.00:261][213]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer gemiLow_RedLight_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.32.00:270][213]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer gemiLow_RedLight_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.32.00:290][214]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer gemiLow_Glass_MetallicSmoothness_Mat, compiling. 
+[2020.03.03-09.32.00:300][214]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer gemiLow_Glass_MetallicSmoothness_Mat, compiling. 
+[2020.03.03-09.32.00:320][215]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer IND_WoodenBoat_01_SM_d_tga_Mat, compiling. 
+[2020.03.03-09.32.00:329][215]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer IND_WoodenBoat_01_SM_d_tga_Mat, compiling. 
+[2020.03.03-09.32.00:349][216]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer NanoBling_0_1, compiling. 
+[2020.03.03-09.32.00:359][216]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer NanoBling_0_1, compiling. 
+[2020.03.03-09.32.00:381][217]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MAIN_MATERIAL__only_modifiy_this_one___0_2, compiling. 
+[2020.03.03-09.32.00:391][217]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MAIN_MATERIAL__only_modifiy_this_one___0_2, compiling. 
+[2020.03.03-09.32.00:412][218]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Rubber_by_Monaro_PL_0_3, compiling. 
+[2020.03.03-09.32.00:423][218]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Rubber_by_Monaro_PL_0_3, compiling. 
+[2020.03.03-09.32.00:443][219]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer black_knight_0_4, compiling. 
+[2020.03.03-09.32.00:452][219]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer black_knight_0_4, compiling. 
+[2020.03.03-09.32.00:472][220]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Aluminium_Alloy_0_5, compiling. 
+[2020.03.03-09.32.00:482][220]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Aluminium_Alloy_0_5, compiling. 
+[2020.03.03-09.32.00:501][221]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Skin3Incandescence_0_6, compiling. 
+[2020.03.03-09.32.00:511][221]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Skin3Incandescence_0_6, compiling. 
+[2020.03.03-09.32.00:529][222]LogShaderCompilers: Display: Shaders left to compile 92
+[2020.03.03-09.32.00:536][222]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SkinByBravefart_0_7, compiling. 
+[2020.03.03-09.32.00:547][222]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer SkinByBravefart_0_7, compiling. 
+[2020.03.03-09.32.00:561][223]LogShaderCompilers: Display: Shaders left to compile 88
+[2020.03.03-09.32.00:568][223]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Tech_Hex_Tile, compiling. 
+[2020.03.03-09.32.00:578][223]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Tech_Hex_Tile, compiling. 
+[2020.03.03-09.32.08:988][225]LogShaderCompilers: Display: Shaders left to compile 82
+[2020.03.03-09.32.08:988][225]LogShaderCompilers: Display: Shaders left to compile 72
+[2020.03.03-09.32.08:988][225]LogShaderCompilers: Display: Shaders left to compile 62
+[2020.03.03-09.32.08:988][225]LogShaderCompilers: Display: Shaders left to compile 52
+[2020.03.03-09.32.08:988][225]LogShaderCompilers: Display: Shaders left to compile 42
+[2020.03.03-09.32.08:988][225]LogShaderCompilers: Display: Shaders left to compile 32
+[2020.03.03-09.32.08:988][225]LogShaderCompilers: Display: Shaders left to compile 22
+[2020.03.03-09.32.08:988][225]LogShaderCompilers: Display: Shaders left to compile 12
+[2020.03.03-09.32.08:988][225]LogShaderCompilers: Display: Shaders left to compile 2
+[2020.03.03-09.32.19:368][935]LightingResults: Warning: gemiLow Object has overlapping UVs.
+[2020.03.03-09.32.19:368][935]LightingResults: gemiLow Lightmap UV are overlapping by 39.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.03.03-09.32.24:435][320]LightingResults: Warning: Yacht_Adastra Object has overlapping UVs.
+[2020.03.03-09.32.24:435][320]LightingResults: Yacht_Adastra Lightmap UV are overlapping by 73.5%. Please adjust content - Enable Error Coloring to visualize.
+[2020.03.03-09.32.24:445][321]Job is a success!
+[2020.03.03-09.32.24:598][322]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.079s
+[2020.03.03-09.32.24:598][322]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.03.03-09.32.24:598][322]LogVolumetricLightmapImport:      BrickData 40x5x5 = 0.0Mb
+[2020.03.03-09.32.24:598][322]LogVolumetricLightmapImport:      Bricks at Level
+[2020.03.03-09.32.24:598][322]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2020.03.03-09.32.24:598][322]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2020.03.03-09.32.24:598][322]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2020.03.03-09.32.24:651][322]LogMaterial: Warning: Material /Game/StarterContent/Textures/gemiLow_MainColor_AlbedoTransparency_Mat.gemiLow_MainColor_AlbedoTransparency_Mat needed to have new flag set bUsedWithStaticLighting !
+[2020.03.03-09.32.24:654][322]LogMaterial: Display: Missing cached shader map for material gemiLow_MainColor_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.32.24:725][322]LogMaterial: Warning: Material /Game/StarterContent/Textures/gemiLow_Wood_AlbedoTransparency_Mat.gemiLow_Wood_AlbedoTransparency_Mat needed to have new flag set bUsedWithStaticLighting !
+[2020.03.03-09.32.24:728][322]LogMaterial: Display: Missing cached shader map for material gemiLow_Wood_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.32.24:752][322]LogShaderCompilers: Display: Shaders left to compile 31
+[2020.03.03-09.32.24:752][322]LogShaderCompilers: Display: Shaders left to compile 21
+[2020.03.03-09.32.24:752][322]LogShaderCompilers: Display: Shaders left to compile 11
+[2020.03.03-09.32.24:752][322]LogMaterial: Warning: Material /Game/StarterContent/Textures/gemiLow_Plastic_AlbedoTransparency_Mat.gemiLow_Plastic_AlbedoTransparency_Mat needed to have new flag set bUsedWithStaticLighting !
+[2020.03.03-09.32.24:755][322]LogMaterial: Display: Missing cached shader map for material gemiLow_Plastic_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.32.24:780][322]LogMaterial: Warning: Material /Game/StarterContent/Textures/gemiLow_Metal_AlbedoTransparency_Mat.gemiLow_Metal_AlbedoTransparency_Mat needed to have new flag set bUsedWithStaticLighting !
+[2020.03.03-09.32.24:783][322]LogMaterial: Display: Missing cached shader map for material gemiLow_Metal_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.32.24:807][322]LogMaterial: Warning: Material /Game/StarterContent/Textures/gemiLow_GreenLight_AlbedoTransparency_Mat.gemiLow_GreenLight_AlbedoTransparency_Mat needed to have new flag set bUsedWithStaticLighting !
+[2020.03.03-09.32.24:811][322]LogMaterial: Display: Missing cached shader map for material gemiLow_GreenLight_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.32.24:835][322]LogMaterial: Warning: Material /Game/StarterContent/Textures/gemiLow_RedLight_AlbedoTransparency_Mat.gemiLow_RedLight_AlbedoTransparency_Mat needed to have new flag set bUsedWithStaticLighting !
+[2020.03.03-09.32.24:838][322]LogMaterial: Display: Missing cached shader map for material gemiLow_RedLight_AlbedoTransparency_Mat, compiling. 
+[2020.03.03-09.32.24:862][322]LogMaterial: Warning: Material /Game/StarterContent/Textures/gemiLow_Glass_MetallicSmoothness_Mat.gemiLow_Glass_MetallicSmoothness_Mat needed to have new flag set bUsedWithStaticLighting !
+[2020.03.03-09.32.24:865][322]LogMaterial: Display: Missing cached shader map for material gemiLow_Glass_MetallicSmoothness_Mat, compiling. 
+[2020.03.03-09.32.24:891][322]LogMaterial: Warning: Material /Game/StarterContent/Textures/IND_WoodenBoat_01_SM_d_tga_Mat.IND_WoodenBoat_01_SM_d_tga_Mat needed to have new flag set bUsedWithStaticLighting !
+[2020.03.03-09.32.24:894][322]LogMaterial: Display: Missing cached shader map for material IND_WoodenBoat_01_SM_d_tga_Mat, compiling. 
+[2020.03.03-09.32.24:919][322]LogMaterial: Warning: Material /Game/StarterContent/Imports/NanoBling_0_1.NanoBling_0_1 needed to have new flag set bUsedWithStaticLighting !
+[2020.03.03-09.32.24:922][322]LogMaterial: Display: Missing cached shader map for material NanoBling_0_1, compiling. 
+[2020.03.03-09.32.24:947][322]LogMaterial: Warning: Material /Game/StarterContent/Imports/MAIN_MATERIAL__only_modifiy_this_one___0_2.MAIN_MATERIAL__only_modifiy_this_one___0_2 needed to have new flag set bUsedWithStaticLighting !
+[2020.03.03-09.32.24:950][322]LogMaterial: Display: Missing cached shader map for material MAIN_MATERIAL__only_modifiy_this_one___0_2, compiling. 
+[2020.03.03-09.32.24:975][322]LogMaterial: Warning: Material /Game/StarterContent/Imports/Rubber_by_Monaro_PL_0_3.Rubber_by_Monaro_PL_0_3 needed to have new flag set bUsedWithStaticLighting !
+[2020.03.03-09.32.24:978][322]LogMaterial: Display: Missing cached shader map for material Rubber_by_Monaro_PL_0_3, compiling. 
+[2020.03.03-09.32.25:002][322]LogMaterial: Warning: Material /Game/StarterContent/Imports/black_knight_0_4.black_knight_0_4 needed to have new flag set bUsedWithStaticLighting !
+[2020.03.03-09.32.25:005][322]LogMaterial: Display: Missing cached shader map for material black_knight_0_4, compiling. 
+[2020.03.03-09.32.25:029][322]LogMaterial: Warning: Material /Game/StarterContent/Imports/Aluminium_Alloy_0_5.Aluminium_Alloy_0_5 needed to have new flag set bUsedWithStaticLighting !
+[2020.03.03-09.32.25:032][322]LogMaterial: Display: Missing cached shader map for material Aluminium_Alloy_0_5, compiling. 
+[2020.03.03-09.32.25:057][322]LogMaterial: Warning: Material /Game/StarterContent/Imports/Skin3Incandescence_0_6.Skin3Incandescence_0_6 needed to have new flag set bUsedWithStaticLighting !
+[2020.03.03-09.32.25:060][322]LogMaterial: Display: Missing cached shader map for material Skin3Incandescence_0_6, compiling. 
+[2020.03.03-09.32.25:084][322]LogMaterial: Warning: Material /Game/StarterContent/Imports/SkinByBravefart_0_7.SkinByBravefart_0_7 needed to have new flag set bUsedWithStaticLighting !
+[2020.03.03-09.32.25:087][322]LogMaterial: Display: Missing cached shader map for material SkinByBravefart_0_7, compiling. 
+[2020.03.03-09.32.25:501][322]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 512X256)
+[2020.03.03-09.32.25:501][322]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2020.03.03-09.32.25:501][322]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2020.03.03-09.32.25:501][322]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 128X64)
+[2020.03.03-09.32.25:501][322]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 128X128)
+[2020.03.03-09.32.25:501][322]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 128X128)
+[2020.03.03-09.32.25:501][322]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 512X256)
+[2020.03.03-09.32.25:501][322]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2020.03.03-09.32.25:501][322]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2020.03.03-09.32.25:501][322]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 512X256)
+[2020.03.03-09.32.25:501][322]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 512X512)
+[2020.03.03-09.32.25:501][322]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 512X512)
+[2020.03.03-09.32.25:501][322]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 512X256)
+[2020.03.03-09.32.25:501][322]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 512X512)
+[2020.03.03-09.32.25:501][322]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 512X512)
+[2020.03.03-09.32.25:501][322]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 512X256)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 512X512)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 512X512)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 128X64)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 128X64)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 128X128)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 128X128)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 128X64)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 128X128)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 128X128)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 128X64)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 128X128)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 128X128)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 128X64)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 128X128)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 128X128)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 128X64)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 128X128)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 128X128)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 128X64)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 128X128)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 128X128)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 128X64)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 128X128)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 128X128)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 128X64)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 128X128)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 128X128)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 256X128)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 256X256)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 256X256)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 64X32)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 64X64)
+[2020.03.03-09.32.25:502][322]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 64X64)
+[2020.03.03-09.32.25:924][322]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 64X64)
+[2020.03.03-09.32.25:924][322]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 64X64)
+[2020.03.03-09.32.25:924][322]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 64X64)
+[2020.03.03-09.32.25:924][322]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 64X64)
+[2020.03.03-09.32.25:924][322]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 64X64)
+[2020.03.03-09.32.25:924][322]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 64X64)
+[2020.03.03-09.32.25:924][322]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 64X64)
+[2020.03.03-09.32.25:924][322]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 64X64)
+[2020.03.03-09.32.25:924][322]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 64X64)
+[2020.03.03-09.32.25:924][322]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 64X64)
+[2020.03.03-09.32.25:924][322]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 64X64)
+[2020.03.03-09.32.25:924][322]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 512X32)
+[2020.03.03-09.32.25:924][322]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X64)
+[2020.03.03-09.32.25:970][322]LogStaticLightingSystem: Illumination: 30.8 sec (370 ms encoding lightmaps, 420 ms encoding shadowmaps)
+[2020.03.03-09.32.25:970][322]LogStaticLightingSystem: Lightmap texture memory:  3.9 MB (3.9 MB streaming, 0.0 MB non-streaming), 34 textures
+[2020.03.03-09.32.25:970][322]LogStaticLightingSystem: Shadowmap texture memory: 0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 13 textures
+[2020.03.03-09.32.26:195][322]DumpUnbuiltLightIteractions
+[2020.03.03-09.32.26:195][322]Lights with unbuilt interactions: 0
+[2020.03.03-09.32.26:195][322]
+[2020.03.03-09.32.26:195][322]Primitives with unbuilt interactions: 0
+[2020.03.03-09.33.01:843][322]LogShaderCompilers: Display: Shaders left to compile 435
+[2020.03.03-09.33.01:843][322]LogShaderCompilers: Display: Shaders left to compile 425
+[2020.03.03-09.33.01:843][322]LogShaderCompilers: Display: Shaders left to compile 415
+[2020.03.03-09.33.01:843][322]LogShaderCompilers: Display: Shaders left to compile 405
+[2020.03.03-09.33.01:843][322]LogShaderCompilers: Display: Shaders left to compile 395
+[2020.03.03-09.33.01:843][322]LogShaderCompilers: Display: Shaders left to compile 385
+[2020.03.03-09.33.01:843][322]LogShaderCompilers: Display: Shaders left to compile 375
+[2020.03.03-09.33.01:843][322]LogShaderCompilers: Display: Shaders left to compile 365
+[2020.03.03-09.33.01:843][322]LogShaderCompilers: Display: Shaders left to compile 355
+[2020.03.03-09.33.01:843][322]LogShaderCompilers: Display: Shaders left to compile 345
+[2020.03.03-09.33.01:843][322]LogShaderCompilers: Display: Shaders left to compile 335
+[2020.03.03-09.33.01:843][322]LogShaderCompilers: Display: Shaders left to compile 325
+[2020.03.03-09.33.01:843][322]LogShaderCompilers: Display: Shaders left to compile 315
+[2020.03.03-09.33.01:843][322]LogShaderCompilers: Display: Shaders left to compile 305
+[2020.03.03-09.33.01:843][322]LogShaderCompilers: Display: Shaders left to compile 295
+[2020.03.03-09.33.01:843][322]LogShaderCompilers: Display: Shaders left to compile 285
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 275
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 265
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 255
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 245
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 235
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 225
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 215
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 205
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 195
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 185
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 175
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 165
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 155
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 145
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 135
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 125
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 115
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 105
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 95
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 85
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 75
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 65
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 55
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 45
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 35
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 25
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 15
+[2020.03.03-09.33.01:844][322]LogShaderCompilers: Display: Shaders left to compile 5
+[2020.03.03-09.33.01:954][323]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.03-09.33.01:954][323]MapCheck: New page: Nautica - 3 Mar 2020 09:33:01
+[2020.03.03-09.33.01:960][323]MapCheck: Warning: Cylinder14 Cylinder14 is in the same location as Cylinder20_35 
+[2020.03.03-09.33.01:960][323]MapCheck: Warning: Cylinder20_35 Cylinder20_35 is in the same location as Cylinder14 
+[2020.03.03-09.33.01:961][323]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 6.368ms to complete.
+[2020.03.03-09.33.14:528][515]LogSlate: Window 'Message Log' being destroyed
+[2020.03.03-09.33.14:533][515]LogSlate: Window 'Message Log' being destroyed
+[2020.03.03-09.33.22:054][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.03.03-09.33.23:339][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.03-09.39.43:513][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.03-09.39.49:381][ 98]LogSlate: Window 'Save Content' being destroyed
+[2020.03.03-09.39.49:407][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nautica" FILE="../../../../../../Users/t7093848/Source/Nautica/Content/Nautica.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.03-09.39.49:710][ 98]LogSavePackage: Moving '../../../../../../Users/t7093848/Source/Nautica/Saved/Nautica328C998A4FD75B70C3EED79D2188798D.tmp' to '../../../../../../Users/t7093848/Source/Nautica/Content/Nautica.umap'
+[2020.03.03-09.39.49:750][ 98]LogFileHelpers: Saving map 'Nautica' took 0.344
+[2020.03.03-09.39.49:752][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Nautica_BuiltData" FILE="../../../../../../Users/t7093848/Source/Nautica/Content/Nautica_BuiltData.uasset" SILENT=true
+[2020.03.03-09.39.49:915][ 98]LogSavePackage: Moving '../../../../../../Users/t7093848/Source/Nautica/Saved/Nautica_BuiltData0D3E6373494E7CDE4574F195AA24F4AA.tmp' to '../../../../../../Users/t7093848/Source/Nautica/Content/Nautica_BuiltData.uasset'
+[2020.03.03-09.39.49:937][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Imports/Aluminium_Alloy_0_5" FILE="../../../../../../Users/t7093848/Source/Nautica/Content/StarterContent/Imports/Aluminium_Alloy_0_5.uasset" SILENT=true
+[2020.03.03-09.39.49:965][ 98]LogSavePackage: Moving '../../../../../../Users/t7093848/Source/Nautica/Saved/Aluminium_Alloy_0_5F955A1204FD8B9B7EED91197F4D8F3FC.tmp' to '../../../../../../Users/t7093848/Source/Nautica/Content/StarterContent/Imports/Aluminium_Alloy_0_5.uasset'
+[2020.03.03-09.39.49:981][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Imports/black_knight_0_4" FILE="../../../../../../Users/t7093848/Source/Nautica/Content/StarterContent/Imports/black_knight_0_4.uasset" SILENT=true
+[2020.03.03-09.39.50:007][ 98]LogSavePackage: Moving '../../../../../../Users/t7093848/Source/Nautica/Saved/black_knight_0_4D25DCE8647BF3F8D93D1CD943BDCEAEE.tmp' to '../../../../../../Users/t7093848/Source/Nautica/Content/StarterContent/Imports/black_knight_0_4.uasset'
+[2020.03.03-09.39.50:054][ 98]LogSavePackage: Moving '../../../../../../Users/t7093848/Source/Nautica/Saved/MAIN_MATERIAL__only_modifiy_thisC7BA4B0D4B8C5CC6E44B9D8FB391CA68.tmp' to '../../../../../../Users/t7093848/Source/Nautica/Content/StarterContent/Imports/MAIN_MATERIAL__only_modifiy_this_one___0_2.uasset'
+[2020.03.03-09.39.50:072][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Imports/NanoBling_0_1" FILE="../../../../../../Users/t7093848/Source/Nautica/Content/StarterContent/Imports/NanoBling_0_1.uasset" SILENT=true
+[2020.03.03-09.39.50:100][ 98]LogSavePackage: Moving '../../../../../../Users/t7093848/Source/Nautica/Saved/NanoBling_0_1659EC15745BA5E61242CFD87E375EDF5.tmp' to '../../../../../../Users/t7093848/Source/Nautica/Content/StarterContent/Imports/NanoBling_0_1.uasset'
+[2020.03.03-09.39.50:147][ 98]LogSavePackage: Moving '../../../../../../Users/t7093848/Source/Nautica/Saved/Rubber_by_Monaro_PL_0_3F74CC550422AFC5A518692B5CF3A4713.tmp' to '../../../../../../Users/t7093848/Source/Nautica/Content/StarterContent/Imports/Rubber_by_Monaro_PL_0_3.uasset'
+[2020.03.03-09.39.50:193][ 98]LogSavePackage: Moving '../../../../../../Users/t7093848/Source/Nautica/Saved/Skin3Incandescence_0_6AF3180A04BC6EE91732FE389AB88AE0C.tmp' to '../../../../../../Users/t7093848/Source/Nautica/Content/StarterContent/Imports/Skin3Incandescence_0_6.uasset'
+[2020.03.03-09.39.50:209][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Imports/SkinByBravefart_0_7" FILE="../../../../../../Users/t7093848/Source/Nautica/Content/StarterContent/Imports/SkinByBravefart_0_7.uasset" SILENT=true
+[2020.03.03-09.39.50:236][ 98]LogSavePackage: Moving '../../../../../../Users/t7093848/Source/Nautica/Saved/SkinByBravefart_0_75908E15F4115A16638859195AA07561E.tmp' to '../../../../../../Users/t7093848/Source/Nautica/Content/StarterContent/Imports/SkinByBravefart_0_7.uasset'
+[2020.03.03-09.39.50:282][ 98]LogSavePackage: Moving '../../../../../../Users/t7093848/Source/Nautica/Saved/gemiLow_Glass_MetallicSmoothness0C99BB8E459430D0AB4343A7FFFB7483.tmp' to '../../../../../../Users/t7093848/Source/Nautica/Content/StarterContent/Textures/gemiLow_Glass_MetallicSmoothness_Mat.uasset'
+[2020.03.03-09.39.50:329][ 98]LogSavePackage: Moving '../../../../../../Users/t7093848/Source/Nautica/Saved/gemiLow_GreenLight_AlbedoTranspa7BA454BD4F304467EF11DDAA77FB28E6.tmp' to '../../../../../../Users/t7093848/Source/Nautica/Content/StarterContent/Textures/gemiLow_GreenLight_AlbedoTransparency_Mat.uasset'
+[2020.03.03-09.39.50:376][ 98]LogSavePackage: Moving '../../../../../../Users/t7093848/Source/Nautica/Saved/gemiLow_MainColor_AlbedoTranspar02F2437C458B32AB0DEC39BE418AE509.tmp' to '../../../../../../Users/t7093848/Source/Nautica/Content/StarterContent/Textures/gemiLow_MainColor_AlbedoTransparency_Mat.uasset'
+[2020.03.03-09.39.50:427][ 98]LogSavePackage: Moving '../../../../../../Users/t7093848/Source/Nautica/Saved/gemiLow_Metal_AlbedoTransparencyD7122A024AF0341012AD14B0DA332727.tmp' to '../../../../../../Users/t7093848/Source/Nautica/Content/StarterContent/Textures/gemiLow_Metal_AlbedoTransparency_Mat.uasset'
+[2020.03.03-09.39.50:479][ 98]LogSavePackage: Moving '../../../../../../Users/t7093848/Source/Nautica/Saved/gemiLow_Plastic_AlbedoTransparenED54741D47997560AD88DA999187E256.tmp' to '../../../../../../Users/t7093848/Source/Nautica/Content/StarterContent/Textures/gemiLow_Plastic_AlbedoTransparency_Mat.uasset'
+[2020.03.03-09.39.50:529][ 98]LogSavePackage: Moving '../../../../../../Users/t7093848/Source/Nautica/Saved/gemiLow_RedLight_AlbedoTranspare99C5DC8E419AD2B866D2BAA073471288.tmp' to '../../../../../../Users/t7093848/Source/Nautica/Content/StarterContent/Textures/gemiLow_RedLight_AlbedoTransparency_Mat.uasset'
+[2020.03.03-09.39.50:582][ 98]LogSavePackage: Moving '../../../../../../Users/t7093848/Source/Nautica/Saved/gemiLow_Wood_AlbedoTransparency_830F76F347EE4CB0E069AC98683C7562.tmp' to '../../../../../../Users/t7093848/Source/Nautica/Content/StarterContent/Textures/gemiLow_Wood_AlbedoTransparency_Mat.uasset'
+[2020.03.03-09.39.50:633][ 98]LogSavePackage: Moving '../../../../../../Users/t7093848/Source/Nautica/Saved/IND_WoodenBoat_01_SM_d_tga_MatB8E0F49A4B5EE2F04CB0998B0FFDE2B0.tmp' to '../../../../../../Users/t7093848/Source/Nautica/Content/StarterContent/Textures/IND_WoodenBoat_01_SM_d_tga_Mat.uasset'
+[2020.03.03-09.40.23:816][777]LogSlate: Window 'MyProject2 - Unreal Editor' being destroyed
+[2020.03.03-09.40.24:006][778]Cmd: QUIT_EDITOR
+[2020.03.03-09.40.24:065][778]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.03-09.40.24:078][778]LogExit: Preparing to exit.
+[2020.03.03-09.40.24:298][778]LogExit: Editor shut down
+[2020.03.03-09.40.24:299][778]LogExit: Transaction tracking system shut down
+[2020.03.03-09.40.24:423][778]LogExit: Object subsystem successfully closed.
+[2020.03.03-09.40.24:437][778]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.03-09.40.24:442][778]LogD3D11RHI: Shutdown
+[2020.03.03-09.40.24:442][778]LogD3D11RHI: CleanupD3DDevice
+[2020.03.03-09.40.24:445][778]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.03.03-09.40.24:480][778]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (624)
+[2020.03.03-09.40.24:480][778]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2020.03.03-09.40.24:480][778]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2020.03.03-09.40.24:480][778]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2020.03.03-09.40.24:481][778]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2020.03.03-09.40.24:481][778]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2020.03.03-09.40.24:481][778]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2020.03.03-09.40.24:481][778]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2020.03.03-09.40.24:481][778]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2020.03.03-09.40.24:481][778]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2020.03.03-09.40.24:481][778]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2020.03.03-09.40.24:481][778]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2020.03.03-09.40.24:481][778]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2020.03.03-09.40.24:481][778]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2020.03.03-09.40.24:481][778]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2020.03.03-09.40.24:481][778]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2020.03.03-09.40.24:481][778]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2020.03.03-09.40.24:481][778]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2020.03.03-09.40.24:481][778]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2020.03.03-09.40.24:481][778]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2020.03.03-09.40.24:481][778]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2020.03.03-09.40.24:481][778]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2020.03.03-09.40.24:481][778]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2020.03.03-09.40.24:481][778]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2020.03.03-09.40.24:482][778]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2020.03.03-09.40.25:411][778]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2020.03.03-09.40.25:411][778]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2020.03.03-09.40.25:412][778]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2020.03.03-09.40.25:412][778]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2020.03.03-09.40.25:412][778]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2020.03.03-09.40.25:412][778]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2020.03.03-09.40.25:412][778]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2020.03.03-09.40.25:412][778]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2020.03.03-09.40.25:412][778]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2020.03.03-09.40.25:412][778]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2020.03.03-09.40.25:412][778]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2020.03.03-09.40.25:412][778]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2020.03.03-09.40.25:412][778]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2020.03.03-09.40.25:412][778]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2020.03.03-09.40.25:412][778]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2020.03.03-09.40.25:412][778]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2020.03.03-09.40.25:413][778]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2020.03.03-09.40.25:413][778]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2020.03.03-09.40.25:413][778]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2020.03.03-09.40.25:413][778]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2020.03.03-09.40.25:413][778]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2020.03.03-09.40.25:413][778]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2020.03.03-09.40.25:413][778]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2020.03.03-09.40.25:486][778]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2020.03.03-09.40.25:486][778]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2020.03.03-09.40.25:486][778]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2020.03.03-09.40.25:486][778]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2020.03.03-09.40.25:486][778]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2020.03.03-09.40.25:486][778]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2020.03.03-09.40.25:486][778]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2020.03.03-09.40.25:486][778]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2020.03.03-09.40.25:486][778]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2020.03.03-09.40.25:487][778]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2020.03.03-09.40.25:487][778]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2020.03.03-09.40.25:487][778]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2020.03.03-09.40.25:487][778]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2020.03.03-09.40.25:487][778]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2020.03.03-09.40.25:487][778]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2020.03.03-09.40.25:487][778]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2020.03.03-09.40.25:488][778]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2020.03.03-09.40.25:488][778]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2020.03.03-09.40.25:488][778]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2020.03.03-09.40.25:488][778]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2020.03.03-09.40.25:488][778]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2020.03.03-09.40.25:488][778]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2020.03.03-09.40.25:488][778]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2020.03.03-09.40.25:488][778]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2020.03.03-09.40.25:488][778]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2020.03.03-09.40.25:488][778]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2020.03.03-09.40.25:488][778]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2020.03.03-09.40.25:488][778]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2020.03.03-09.40.25:488][778]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2020.03.03-09.40.25:488][778]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2020.03.03-09.40.25:488][778]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2020.03.03-09.40.25:488][778]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2020.03.03-09.40.25:494][778]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2020.03.03-09.40.25:594][778]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2020.03.03-09.40.25:594][778]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2020.03.03-09.40.25:594][778]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2020.03.03-09.40.25:594][778]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2020.03.03-09.40.25:594][778]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2020.03.03-09.40.25:594][778]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2020.03.03-09.40.25:594][778]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2020.03.03-09.40.25:594][778]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2020.03.03-09.40.25:594][778]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2020.03.03-09.40.25:594][778]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2020.03.03-09.40.25:594][778]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2020.03.03-09.40.25:594][778]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2020.03.03-09.40.25:594][778]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2020.03.03-09.40.25:594][778]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2020.03.03-09.40.25:594][778]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2020.03.03-09.40.25:594][778]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2020.03.03-09.40.25:594][778]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2020.03.03-09.40.25:602][778]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2020.03.03-09.40.25:602][778]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2020.03.03-09.40.25:602][778]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2020.03.03-09.40.25:602][778]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2020.03.03-09.40.25:602][778]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2020.03.03-09.40.25:602][778]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2020.03.03-09.40.25:602][778]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2020.03.03-09.40.25:602][778]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2020.03.03-09.40.25:602][778]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2020.03.03-09.40.25:603][778]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2020.03.03-09.40.25:603][778]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2020.03.03-09.40.25:603][778]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2020.03.03-09.40.25:603][778]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2020.03.03-09.40.25:603][778]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2020.03.03-09.40.25:603][778]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2020.03.03-09.40.25:603][778]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2020.03.03-09.40.25:603][778]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2020.03.03-09.40.25:603][778]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2020.03.03-09.40.25:603][778]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.03.03-09.40.25:603][778]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.03.03-09.40.25:603][778]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.03.03-09.40.25:603][778]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.03.03-09.40.25:603][778]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.03.03-09.40.25:603][778]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.03.03-09.40.25:603][778]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.03.03-09.40.25:604][778]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.03.03-09.40.25:604][778]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.03.03-09.40.25:604][778]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.03.03-09.40.25:604][778]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2020.03.03-09.40.25:604][778]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2020.03.03-09.40.25:604][778]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2020.03.03-09.40.25:604][778]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2020.03.03-09.40.25:604][778]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2020.03.03-09.40.25:604][778]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2020.03.03-09.40.25:604][778]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2020.03.03-09.40.25:604][778]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2020.03.03-09.40.25:604][778]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2020.03.03-09.40.25:604][778]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2020.03.03-09.40.25:604][778]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2020.03.03-09.40.25:604][778]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.03.03-09.40.25:605][778]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.03.03-09.40.25:605][778]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.03.03-09.40.25:706][778]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.03.03-09.40.25:806][778]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2020.03.03-09.40.25:806][778]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2020.03.03-09.40.25:806][778]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2020.03.03-09.40.25:806][778]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2020.03.03-09.40.25:806][778]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2020.03.03-09.40.25:806][778]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2020.03.03-09.40.25:806][778]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2020.03.03-09.40.25:807][778]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2020.03.03-09.40.25:807][778]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2020.03.03-09.40.25:808][778]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2020.03.03-09.40.25:808][778]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2020.03.03-09.40.25:809][778]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2020.03.03-09.40.25:811][778]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2020.03.03-09.40.25:811][778]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.03.03-09.40.25:811][778]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2020.03.03-09.40.25:811][778]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2020.03.03-09.40.25:811][778]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2020.03.03-09.40.25:811][778]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2020.03.03-09.40.25:811][778]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2020.03.03-09.40.25:813][778]LogModuleManager: Shutting down and abandoning module Media (241)
+[2020.03.03-09.40.25:821][778]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2020.03.03-09.40.25:821][778]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2020.03.03-09.40.25:821][778]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2020.03.03-09.40.25:821][778]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2020.03.03-09.40.25:821][778]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2020.03.03-09.40.25:821][778]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2020.03.03-09.40.25:821][778]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2020.03.03-09.40.25:821][778]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2020.03.03-09.40.25:821][778]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2020.03.03-09.40.25:821][778]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2020.03.03-09.40.25:821][778]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2020.03.03-09.40.25:821][778]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2020.03.03-09.40.25:821][778]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2020.03.03-09.40.25:821][778]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2020.03.03-09.40.25:821][778]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2020.03.03-09.40.25:821][778]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2020.03.03-09.40.25:822][778]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2020.03.03-09.40.25:822][778]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2020.03.03-09.40.25:822][778]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2020.03.03-09.40.25:822][778]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2020.03.03-09.40.25:825][778]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.03.03-09.40.25:825][778]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.03.03-09.40.25:825][778]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.03.03-09.40.25:825][778]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.03.03-09.40.25:826][778]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.03.03-09.40.25:826][778]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.03.03-09.40.25:826][778]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2020.03.03-09.40.25:826][778]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2020.03.03-09.40.25:826][778]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2020.03.03-09.40.25:826][778]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2020.03.03-09.40.25:826][778]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2020.03.03-09.40.25:826][778]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2020.03.03-09.40.25:826][778]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2020.03.03-09.40.25:826][778]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2020.03.03-09.40.25:826][778]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2020.03.03-09.40.25:826][778]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2020.03.03-09.40.25:826][778]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2020.03.03-09.40.25:826][778]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2020.03.03-09.40.25:901][778]LogDerivedDataCache: Shutdown
+[2020.03.03-09.40.25:901][778]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2020.03.03-09.40.25:901][778]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2020.03.03-09.40.25:901][778]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2020.03.03-09.40.25:901][778]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2020.03.03-09.40.25:901][778]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2020.03.03-09.40.25:901][778]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2020.03.03-09.40.25:901][778]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2020.03.03-09.40.25:901][778]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2020.03.03-09.40.25:901][778]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2020.03.03-09.40.25:901][778]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2020.03.03-09.40.25:901][778]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2020.03.03-09.40.25:902][778]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2020.03.03-09.40.25:902][778]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2020.03.03-09.40.25:902][778]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2020.03.03-09.40.25:902][778]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2020.03.03-09.40.25:902][778]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2020.03.03-09.40.25:902][778]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2020.03.03-09.40.25:902][778]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2020.03.03-09.40.25:903][778]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.03.03-09.40.25:903][778]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.03.03-09.40.25:903][778]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2020.03.03-09.40.25:903][778]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2020.03.03-09.40.25:904][778]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2020.03.03-09.40.25:904][778]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2020.03.03-09.40.25:905][778]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2020.03.03-09.40.25:905][778]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2020.03.03-09.40.25:905][778]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2020.03.03-09.40.25:913][778]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2020.03.03-09.40.25:913][778]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2020.03.03-09.40.25:913][778]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2020.03.03-09.40.25:913][778]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2020.03.03-09.40.25:913][778]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2020.03.03-09.40.25:913][778]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2020.03.03-09.40.25:913][778]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2020.03.03-09.40.25:913][778]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2020.03.03-09.40.25:913][778]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2020.03.03-09.40.25:913][778]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2020.03.03-09.40.25:913][778]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2020.03.03-09.40.25:913][778]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2020.03.03-09.40.25:913][778]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2020.03.03-09.40.25:913][778]LogHMD: Freeing OpenVRDLLHandle.
+[2020.03.03-09.40.25:913][778]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2020.03.03-09.40.25:913][778]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2020.03.03-09.40.25:913][778]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2020.03.03-09.40.25:913][778]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2020.03.03-09.40.25:913][778]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2020.03.03-09.40.25:914][778]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2020.03.03-09.40.25:914][778]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2020.03.03-09.40.25:934][778]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2020.03.03-09.40.25:934][778]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.03.03-09.40.25:934][778]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE10F5585-4469-6422-E7A5-E0831A8412DC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=82e677a7417a622982d9f7995d4bad2d%7C%7Cba8d5d79-f1a5-4d28-90d7-cadf2dea7be8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.03.03-09.40.25:959][778]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2020.03.03-09.40.25:961][778]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2020.03.03-09.40.25:962][778]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2020.03.03-09.40.25:962][778]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2020.03.03-09.40.25:962][778]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2020.03.03-09.40.25:962][778]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2020.03.03-09.40.25:962][778]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2020.03.03-09.40.25:962][778]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2020.03.03-09.40.25:962][778]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.03-09.40.25:962][778]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2020.03.03-09.40.25:962][778]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2020.03.03-09.40.25:963][778]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2020.03.03-09.40.25:963][778]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2020.03.03-09.40.25:963][778]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2020.03.03-09.40.25:964][778]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2020.03.03-09.40.25:964][778]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2020.03.03-09.40.25:964][778]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2020.03.03-09.40.25:964][778]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2020.03.03-09.40.25:964][778]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2020.03.03-09.40.25:965][778]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2020.03.03-09.40.25:965][778]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2020.03.03-09.40.25:965][778]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2020.03.03-09.40.25:965][778]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2020.03.03-09.40.25:965][778]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2020.03.03-09.40.25:965][778]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2020.03.03-09.40.25:965][778]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2020.03.03-09.40.25:965][778]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2020.03.03-09.40.25:965][778]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2020.03.03-09.40.25:965][778]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2020.03.03-09.40.25:974][778]LogExit: Exiting.
+[2020.03.03-09.40.25:981][778]Log file closed, 03/03/20 09:40:25
